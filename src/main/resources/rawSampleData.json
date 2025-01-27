@@ -1,0 +1,82 @@
+[
+  {
+    "playerId": 1,
+    "playerName": "Virat Kohli",
+    "playerAge": 34,
+    "playerNationality": "Indian",
+    "playerType": "Batsman",
+    "iplTrophies": 4
+  },
+  {
+    "playerId": 2,
+    "playerName": "Rohit Sharma",
+    "playerAge": 36,
+    "playerNationality": "Indian",
+    "playerType": "Batsman",
+    "iplTrophies": 5
+  },
+  {
+    "playerId": 3,
+    "playerName": "MS Dhoni",
+    "playerAge": 42,
+    "playerNationality": "Indian",
+    "playerType": "Wicketkeeper-Batsman",
+    "iplTrophies": 3
+  },
+  {
+    "playerId": 4,
+    "playerName": "AB de Villiers",
+    "playerAge": 41,
+    "playerNationality": "South African",
+    "playerType": "Batsman",
+    "iplTrophies": 0
+  },
+  {
+    "playerId": 5,
+    "playerName": "Kane Williamson",
+    "playerAge": 34,
+    "playerNationality": "New Zealand",
+    "playerType": "Batsman",
+    "iplTrophies": 1
+  },
+  {
+    "playerId": 6,
+    "playerName": "Ben Stokes",
+    "playerAge": 33,
+    "playerNationality": "English",
+    "playerType": "All-rounder",
+    "iplTrophies": 0
+  },
+  {
+    "playerId": 7,
+    "playerName": "Jasprit Bumrah",
+    "playerAge": 30,
+    "playerNationality": "Indian",
+    "playerType": "Bowler",
+    "iplTrophies": 0
+  },
+  {
+    "playerId": 8,
+    "playerName": "Shane Watson",
+    "playerAge": 43,
+    "playerNationality": "Australian",
+    "playerType": "All-rounder",
+    "iplTrophies": 1
+  },
+  {
+    "playerId": 9,
+    "playerName": "Chris Gayle",
+    "playerAge": 45,
+    "playerNationality": "West Indian",
+    "playerType": "Batsman",
+    "iplTrophies": 1
+  },
+  {
+    "playerId": 10,
+    "playerName": "David Warner",
+    "playerAge": 37,
+    "playerNationality": "Australian",
+    "playerType": "Batsman",
+    "iplTrophies": 1
+  }
+]
